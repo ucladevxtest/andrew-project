@@ -1,0 +1,3 @@
+exclude:
+  - express
+  - node_modules
